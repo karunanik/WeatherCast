@@ -1,0 +1,14 @@
+
+
+shantemp.innerHTML = response.temp 
+shantemp2.innerHTML = response.temp 
+shanfeels_like.innerHTML = response.feels_like
+shanhumidity.innerHTML = response.humidity
+shanhumidity2.innerHTML = response.humidity
+shanmin_temp.innerHTML = response.min_temp
+shanmax_temp.innerHTML = response.max_temp
+shanwind_speed.innerHTML = response.wind_speed
+shanwind_speed2.innerHTML = response.wind_speed
+shanwind_degrees.innerHTML = response.wind_degrees
+shansunrise.innerHTML = response.sunrise
+shansunset.innerHTML = response.sunset
